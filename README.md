@@ -1,1 +1,1 @@
-# mining-app
+test
